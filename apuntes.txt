@@ -30,3 +30,23 @@ Sin embargo, existen algunas formas de integrar ambos lenguajes:
 
 Es importante tener en cuenta que cada una de estas soluciones tiene sus propias limitaciones y puede requerir un cierto nivel de configuración y conocimiento para implementarlas correctamente.
 
+
+La pregunta es un poco ambigua, pero si entiendo que se quiere saber si se puede añadir el número 12.44 a una variable, la respuesta es sí, es válido en Python.
+
+Por ejemplo:
+
+num = 12.44
+print(num)
+
+En este caso se está asignando el valor 12.44 a la variable num y luego se imprime su valor en pantalla.
+
+Sin embargo, si quieres añadir 12.44 a una variable existente, debes utilizar el operador "+" para sumar el valor existente con 12.44:
+
+num = 3
+num += 12.44
+print(num)
+
+En este caso se está sumando el valor existente de la variable num (3) con 12.44, y el resultado es 15.44.
+
+Es importante mencionar que el tipo de variable debe ser float para poder operar con decimales.
+
