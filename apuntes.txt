@@ -14,3 +14,19 @@ Sí, aquí hay algunos comandos básicos de Python en Linux:
 Ten en cuenta que algunos de estos comandos pueden requerir permisos de administrador (sudo) para ejecutarlos.
 
 
+como puedo ejecutar un codigo de python y javascript en el mismo escript?¿
+
+No es posible ejecutar código de Python y JavaScript en el mismo script ya que son dos lenguajes de programación diferentes con sintaxis y funciones diferentes. Cada uno tiene su propio entorno de ejecución y no pueden ser mezclados directamente.
+
+Sin embargo, existen algunas formas de integrar ambos lenguajes:
+
+    Utilizando una interfaz de programación de aplicaciones (API) como Flask o Django para crear una aplicación web en Python y luego utilizar JavaScript para interactuar con la API desde el lado del cliente.
+
+    Utilizando un intérprete de Python como Pyjs, que permite escribir aplicaciones web en Python y generar código JavaScript equivalente.
+
+    Utilizando un intérprete de JavaScript como Jiphy, que permite ejecutar código Python dentro de un script de JavaScript.
+
+    Utilizando herramientas de automatización de tareas como Grunt o Gulp para ejecutar scripts de Python y JavaScript en secuencia.
+
+Es importante tener en cuenta que cada una de estas soluciones tiene sus propias limitaciones y puede requerir un cierto nivel de configuración y conocimiento para implementarlas correctamente.
+
