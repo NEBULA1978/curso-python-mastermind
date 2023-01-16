@@ -1,0 +1,16 @@
+ comandos para python con consola linux
+
+Sí, aquí hay algunos comandos básicos de Python en Linux:
+
+    Para ejecutar un script de Python en la consola: python nombre_del_archivo.py
+    Para ver la versión de Python instalada en tu sistema: python -V
+    Para acceder al intérprete de Python en modo interactivo: python
+    Para salir del intérprete de Python: exit() o ctrl + D
+    Para instalar un paquete de Python utilizando pip: pip install nombre_del_paquete
+    Para desinstalar un paquete de Python utilizando pip: pip uninstall nombre_del_paquete
+    Para ver la lista de paquetes instalados en Python: pip list
+    Para ver la información de un paquete específico: pip show nombre_del_paquete
+
+Ten en cuenta que algunos de estos comandos pueden requerir permisos de administrador (sudo) para ejecutarlos.
+
+
